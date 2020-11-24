@@ -1,2 +1,2 @@
-# nodejs--digitalocean
+# nodejs-digitalocean
 Tutorial code node.js
